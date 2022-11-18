@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  margin: 50vh 0;
+}
+button {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  color: green;
+  background-color: goldenrod;
+}
